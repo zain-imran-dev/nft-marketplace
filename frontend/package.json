@@ -1,0 +1,32 @@
+{
+  "name": "nft-marketplace-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.17.9",
+    "@wagmi/connectors": "^5.9.0",
+    "@wagmi/core": "^2.18.0",
+    "clsx": "^2.0.0",
+    "ethers": "^6.8.1",
+    "lucide-react": "^0.294.0",
+    "next": "15.4.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.2.0",
+    "viem": "^2.7.9",
+    "wagmi": "^2.16.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.4.4",
+    "tailwindcss": "^4"
+  }
+}
