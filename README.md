@@ -11,6 +11,8 @@ A full-stack NFT marketplace built with **Solidity**, **Hardhat**, **Next.js**, 
 # NFT Marketplace
 
 A complete NFT marketplace with smart contracts and React frontend.
+<img width="1541" height="1095" alt="image" src="https://github.com/user-attachments/assets/4ff15fd4-6cf6-4e9d-a3ac-caf1bb761955" />
+
 
 ## Key Highlights
 
